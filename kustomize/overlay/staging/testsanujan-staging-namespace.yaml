@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: testsanujan-staging
+  labels:
+    environment-id: env_2a810de0-b0d3-4da6-a0b2-9020c037c296
+    project-id: project_b418388f-6436-49fb-b8cb-ea922090add7
+    project-name: testSanujan
+    environment-name: staging
+    organization-id: org_2bdf1462-45a3-4be1-b17c-670de7c13277

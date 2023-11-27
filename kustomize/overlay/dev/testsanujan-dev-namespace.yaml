@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: testsanujan-dev
+  labels:
+    environment-id: env_50495d4d-4f05-4faf-b09c-0e2c2f360726
+    project-id: project_b418388f-6436-49fb-b8cb-ea922090add7
+    project-name: testSanujan
+    environment-name: dev
+    organization-id: org_2bdf1462-45a3-4be1-b17c-670de7c13277
